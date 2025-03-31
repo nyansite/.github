@@ -7,7 +7,7 @@
 
 - [开发文档](https://github.com/nyansite/inside-docs)
 - [前端项目](https://github.com/nyansite/nyansite-vue)
-- [后端项目](https://github.com/nyansite/nyansite-kotlin))
+- [后端项目](https://github.com/nyansite/nyansite-kotlin)
 
 ## Todo
 
